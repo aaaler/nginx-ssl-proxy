@@ -3,7 +3,7 @@
   }
 
   server {
-    listen 443 ssl;
+    listen ${LISTEN};
     server_name ${SERVER_NAME};
 
     ssl on;
