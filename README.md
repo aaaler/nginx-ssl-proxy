@@ -1,7 +1,7 @@
 nginx-ssl-proxy
 ===============
 
-Simple nginx microservice proxing https request to https service.
+Simple nginx microservice proxing https request to http service.
 
 Example usage:
 ```
