@@ -18,5 +18,5 @@ You can use this self-explaining environment variables:
  - `SERVER_NAME` -- nginx server_name. Defaults to localhost.
  - `LISTEN` -- nginx listen directive. Defaults to "443 ssl".
 
-(Automated build on dockerhub)[https://hub.docker.com/r/aaaler/nginx-ssl-proxy/]
+[Automated build on dockerhub](https://hub.docker.com/r/aaaler/nginx-ssl-proxy/)
 
